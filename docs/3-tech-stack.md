@@ -2,7 +2,7 @@
 
 ## Defined Tech Stack
 
-*   `React Native`: [Used to develop Study Sync as a mobile application for both Android and iOS]
+*   `React Native`: [Used to develop Study Sync as a mobile application for both Android and IOS]
 
 *   `Firebase`: [Used to store user accounts, study progress, and schedules]
  
