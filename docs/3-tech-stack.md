@@ -6,7 +6,7 @@
 
 *   `Firebase`: [Used to store user accounts, study progress, and schedules]
  
-*   `JavaScript`: [Used to handle the application's functionality, such as focus timers, task tracking, and reminders]
+*   `JavaScript`: [Used to handle the application's functionality, like focus timers, task tracking, and reminders]
 
 ## Hosting & Deployment Strategy
 
