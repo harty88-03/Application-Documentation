@@ -12,13 +12,13 @@
 
 - [ ] Test buttons and interactive elements for basic error handling
 
-- [ ] Run a cross-device usability check (iOS phones and iPads, Android phones and tablets)
+- [ ] Run a cross-device usability check (IOS phones and IPads, Android phones and tablets)
 
 - [ ] Test focus sessions, timers, and personalized study methods to make sure they function without errors
 
 ## Launch Day Operations
 
-- [ ] Publish the final version of Study Sync on the iOS App Store and Google Play Store
+- [ ] Publish the final version of Study Sync on the IOS App Store and Google Play Store
 
 - [ ] Test the live app to make sure all study methods and personalized learning features work correctly
 
